@@ -24,7 +24,7 @@ This project helped me strengthen my knowledge of **Data Analysis**, **Pandas**,
 * Python
 * Pandas
 * NumPy
-* Jupyter Notebook / Google Colab
+* Google Colab
 * Git & GitHub
 
 ---
